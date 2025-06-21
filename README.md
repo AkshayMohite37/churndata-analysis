@@ -62,5 +62,4 @@ To provide a comprehensive, interactive view of customer churn behavior based on
 
 
 ### 6.	Screenshots / Demos
-Dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Dashboard looks like:- ![Dashboard Preview](https://github.com/AkshayMohite37/churndata-analysis/blob/main/Snapshot%20.png)
