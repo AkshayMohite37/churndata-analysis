@@ -43,14 +43,18 @@ To provide a comprehensive, interactive view of customer churn behavior based on
 • Demographics:
   1. Churn by Gender: Males churn more (64.15%) than females.
   2. Churn by Age Group: Churn rate increases with age, highest in the 50+ segment.
+     
 • Account Info:
   1. Payment Method: Higher churn with mailed checks and bank wire transfers.
   2. Contract Type: Month-to-month customers have the highest churn.
   3. Tenure Group: Churn peaks for customers with over 24 months of tenure.
+     
 • Geographic Insight:
   1. Top 5 States by Churn Rate: Jammu, Assam, Jharkhand, Chhattisgarh, and Delhi show the highest churn rates.
+     
 • Services Used:
   1. Customers using Unlimited Data (80.1%), Online Security (72.6%), and Device Protection Plan (71%) show significantly higher churn.
+     
 • Churn Distribution by Reason:
   1. The top churn drivers are competition, attitude, and dissatisfaction.
 
