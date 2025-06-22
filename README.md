@@ -39,6 +39,7 @@ To provide a comprehensive, interactive view of customer churn behavior based on
 
  * Top Metrics (KPIs):
   * Displays total customers (6418), new joiners (411), total churned (1732), and churn rate (27%).
+
 • Demographics:
   1. Churn by Gender: Males churn more (64.15%) than females.
   2. Churn by Age Group: Churn rate increases with age, highest in the 50+ segment.
